@@ -7,7 +7,7 @@ body {
   margin-bottom: 60px;
 }
 #footer {
-  margin-bottom: -222px;
+  margin-bottom: -362px;
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -24,6 +24,8 @@ body {
 }
 
 
+
+
 /* Custom footer CSS
 -------------------------------------------------- */
 
@@ -38,4 +40,9 @@ body {
 }
 .footertext {
   color: #ffffff;
+}
+
+
+.container-fluid{
+  background:#F0F5FF;
 }
